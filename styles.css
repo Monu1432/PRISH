@@ -5,6 +5,9 @@ body {
 h1 {
     color:RED; font-size: 100px;
 }
+h3{
+    color:rgb(255, 0, 230); font-size: 50px;
+}
 
 
 .heart{
